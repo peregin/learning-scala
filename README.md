@@ -18,7 +18,6 @@ The sessions are presenting theoretical knowledge with hands on exercises.
  * validations
  * monads
  * monad transformers (option, either)
- * kleisli
- * writer, state
+ * reader, writer, state
  * io effects / zio
  * data structures (Nel, Nec, etc)
