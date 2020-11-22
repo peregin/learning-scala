@@ -1,4 +1,5 @@
-# Learning Scala ![Scala](https://raw.github.com/peregin/learning-scala/master/doc/scala.png "logo")
+![Scala](https://raw.github.com/peregin/learning-scala/master/doc/scala.png "logo")
+# Learning Scala
 
 ## Motivation
 Provide an easy way to learn the Scala language, having basic programming skills or coming from another language.
